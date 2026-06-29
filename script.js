@@ -18,38 +18,38 @@ const documentData = [
   {
     id: 1,
     icon: "📐",
-    tag: "Toán",
-    title: "Giải tích 1 – Đại học",
-    description: "Tổng hợp lý thuyết, bài tập có lời giải từ chương giới hạn đến tích phân.",
-    shopeeLink: "https://shope.ee/your_affiliate_link_1",
-    driveLink: "https://drive.google.com/your_drive_link_1"
+    tag: "Tiếng anh",
+    title: "Khóa học 48 ngày mất gốc cô Mai Phương",
+    description: "Đầy đủ nội dung 48 ngày học kèm bài tập",
+    shopeeLink: "https://s.shopee.vn/2Vpjz5166L",
+    driveLink: "https://48n-thptqg.blogspot.com/"
   },
   {
     id: 2,
     icon: "⚗️",
-    tag: "Hóa học",
-    title: "Hóa đại cương A1 – Bộ đề thi",
-    description: "Bộ 120 câu trắc nghiệm ôn thi cuối kỳ kèm đáp án giải thích chi tiết.",
-    shopeeLink: "https://shope.ee/your_affiliate_link_2",
-    driveLink: "https://drive.google.com/your_drive_link_2"
+    tag: "Tiếng anh",
+    title: "Khóa Toeic Cô Mai Phương",
+    description: "Đầy đủ bài giảng kèm tài liệu và bài tập",
+    shopeeLink: "https://s.shopee.vn/8pjjtDvghB",
+    driveLink: "https://docs.google.com/spreadsheets/d/18BMckakbzYMVhLFwTYt6AqGDS0iKX2dVwNAcPpk_m7c/edit?usp=drivesdk"
   },
   {
     id: 3,
     icon: "💻",
-    tag: "Lập trình",
-    title: "Python cơ bản đến nâng cao",
-    description: "Tài liệu học Python từ zero: biến, hàm, OOP, xử lý file và web scraping.",
-    shopeeLink: "https://shope.ee/your_affiliate_link_3",
-    driveLink: "https://drive.google.com/your_drive_link_3"
+    tag: "Tin học",
+    title: "Khóa học chứng chỉ MOS",
+    description: "Tài liệu cộng bài giảng chi tiết",
+    shopeeLink: "https://www.tiktok.com/view/product/1733908624481551952?_d=f20b2722ab3cmd&_svg=1&chain_key=%7B%22t%22%3A1%2C%22k%22%3A%22000000000000000007656000335622932242%22%2C%22sc%22%3A%22copy%22%7D&encode_params=MIIBUwQMHa31MAe5qrZl04VrBIIBL3pxcg6_ZHZTcRQdQEqfktSwV1YAhHfQfC3vg4Ipk11GOfIzYChZyo-2RbGUwPLwC4wQ6OuEo2jvRLGs2pSgWmD4njoeQuxXlqGo9_OJEG2aNTcFNreOl2H72cxt1uZJkWVUnwmKsvzJhBbJ2mN2qrk-IqJq27lv70tTSoi-2-wR6WJlvRlOr_MZbFsDSjGVRqn5yZxFNBustnbcN6HtheTrnKX6gLZB1cZhGPzfKy6SIHHgq-wSC1p3xlZN9L-PBFrbxQN4AkPxpndBBvk7RtIykzDKabwrR0zv15EPyflI7cw4J3ZFqDOwwLCPWFCSut8QDyQcAf2oIcmwzbbohuB8KdFGUr3wbmLAXQbcAq8PNCIgnlQBm8hah4i8O0dKWMeQeIw2RJ71GTG7WjN2dQQQko8b5p2PZIOK6TVeOe_7LQ%3D%3D&og_info=%7B%22title%22%3A%22%C3%81o+Thun+Tay+Ng%E1%BA%AFn+C%E1%BB%95+B%E1%BA%A5t+%C4%90%E1%BB%91i+X%E1%BB%A9ng+K%E1%BA%BB+S%E1%BB%8Dc+Tr%E1%BB%85+Vai+Cho+N%E1%BB%AF+M%C3%B9a+H%C3%A8+Phong+C%C3%A1ch+M%E1%BB%9Bi+N%C3%B3ng+B%E1%BB%8Fng+G%E1%BB%A3i+C%E1%BA%A3m+Thu%E1%BA%A7n+Khi%E1%BA%BFt+%C3%94m+D%C3%A1ng+Thanh+L%E1%BB%8Bch+Tuy%E1%BB%87t+%C4%90%E1%BA%B9p%22%2C%22image%22%3A%22https%3A%2F%2Fp16-oec-general.tiktokcdn.com%2Ftos-maliva-i-o3syd03w52-us%2F74faad287bf44e9490f0ee9d7ab72bba~tplv-o3syd03w52-resize-jpeg%3A800%3A800.jpeg%3Fdr%3D15584%26t%3D555f072d%26ps%3D933b5bde%26shp%3D2408c917%26shcp%3D32ce9e9e%26idc%3Dmy%26from%3D604555543%22%7D&scene=pdp&share_app_id=1180&share_region=VN&timestamp=1782551496&trackParams=%7B%22enter_from_info%22%3A%22product_share_outside%22%2C%22source_page_type%22%3A%22product_share%22%2C%22enable_shop_tab_popup%22%3A1%7D&use_land_page=1&utm_campaign=client_share&utm_source=copy",
+    driveLink: "https://drive.google.com/drive/folders/19TIcajH26y2uh5bV3vXxoqGb4D9eAQt7"
   },
   {
     id: 4,
     icon: "📊",
-    tag: "Kinh tế",
-    title: "Kinh tế vi mô – Slide bài giảng",
-    description: "Full slide 14 chương kèm tóm tắt lý thuyết và bài tập ứng dụng thực tế.",
-    shopeeLink: "https://shope.ee/your_affiliate_link_4",
-    driveLink: "https://drive.google.com/your_drive_link_4"
+    tag: "Tiếng Anh",
+    title: "Khóa ngữ pháp trọn đời cô Mai Phương",
+    description: "Đầy đủ từ vựng kèm ngữ pháp.",
+    shopeeLink: "https://s.shopee.vn/3g1hO9kdfO",
+    driveLink: "https://docs.google.com/spreadsheets/d/1KJ38EgYzQOl-Friue5mxVuf12bPKGnijZp92l4Da5wY/edit?usp=sharing&usp=embed_facebook&usp=embed_facebook"
   },
   {
     id: 5,
@@ -57,8 +57,8 @@ const documentData = [
     tag: "Tiếng Anh",
     title: "IELTS Writing Task 2 – 50 mẫu",
     description: "50 bài mẫu band 7.0–8.5 phân tích từng câu, ghi chú từ vựng và cấu trúc.",
-    shopeeLink: "https://shope.ee/your_affiliate_link_5",
-    driveLink: "https://drive.google.com/your_drive_link_5"
+    shopeeLink: "https://s.shopee.vn/4AxxzBBSAl",
+    driveLink: "https://docs.google.com/spreadsheets/d/1HOuMa-wIMPrtDJyGk8H5Umo1UbBaWhvJY4TsuQbw61s/edit?usp=drivesdk"
   },
   {
     id: 6,
